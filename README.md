@@ -14,7 +14,7 @@ Meu interesse é a ponte entre tecnologia e negócio: entender o problema do cli
 - ☁️ **[estudos-aws](https://github.com/joaolucasxs/estudos-aws)** — labs, scripts e anotações do AWS re/Start e do Cloud Practitioner
 - 🏗️ **[diagramas-arquitetura](https://github.com/joaolucasxs/diagramas-arquitetura)** — cenários on-premises, híbridos e cloud
 
-📫 [LinkedIn](https://www.linkedin.com/in/[joão-lucasslv]) · [joaolucasjxl@gmail.com]
+📫 [LinkedIn](https://www.linkedin.com/in/[joão-lucasslv]) · joaolucasjxl@gmail.com
 
 ---
 
