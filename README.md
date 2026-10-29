@@ -6,7 +6,7 @@ Meu interesse é a ponte entre tecnologia e negócio: entender o problema do cli
 
 ## ☁️ Formação em Cloud
 - **AWS re/Start — Escola da Nuvem** (concluído, 2025) — programa da AWS com foco em fundamentos de cloud, Linux, redes, segurança e Python
-- **Tech para Todos — Escola da Nuvem** (em andamento, 2026) — [programa da AWS com foco em fundamentos de cloud, Linux, redes, segurança e Python]
+- **Tech para Todos — Escola da Nuvem** (em andamento, 2026) — fundamentos de TI, redes, segurança, lógica e Python, com trilha de desenvolvimento profission
 - Em preparação para a certificação **AWS Certified Cloud Practitioner**
 
 ## 📂 Repositórios em destaque
