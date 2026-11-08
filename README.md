@@ -12,19 +12,28 @@
 Dois anos em marketing e vendas de e-commerce me ensinaram a transformar dados em decisão e a entender o que o cliente precisa. Em 2025 levei essa base para a tecnologia: AWS re/Start pela Escola da Nuvem, faculdade de ADS e preparação para o AWS Cloud Practitioner.
 
 Meu objetivo é construir carreira em tecnologia unindo visão de negócio e domínio técnico. O caminho que escolhi para isso é a prática: cada repositório aqui é um projeto real, construído em etapas e documentado com as decisões e os aprendizados de cada uma. Hoje o foco é cloud AWS e fundamentos de backend; o próximo passo se define pelo que eu entregar.
+
 ## Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
+
+- **Python** — base do re/Start; hoje usado para construir a API de métricas (funções, tipos, modelos Pydantic)
+- **FastAPI** — endpoints GET e POST, validação automática de entrada, documentação em `/docs`
+- **AWS** — S3 (site estático no ar), IAM, EC2, VPC e precificação; preparação para o Cloud Practitioner
+- **Linux** — linha de comando, permissões e serviços, do re/Start
+- **SQL** — consultas básicas; próximo passo é SQLite na API para persistir as campanhas
+- **Excel / Google Sheets** — relatórios e dashboards de indicadores de campanha (fórmulas, tabelas, gráficos)
+- **Git** — fluxo diário de add, commit e push; um commit por etapa de aprendizado
 
 ## Projetos
 
