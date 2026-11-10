@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d6b,100:1f5f8b&height=180&section=header&text=Jo%C3%A3o%20Lucas&fontSize=40&fontColor=ffffff&desc=Marketing%20e%20Dados%20%7C%20Em%20transi%C3%A7%C3%A3o%20para%20Cloud%20e%20Backend&descAlignY=65&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d6b,100:1f5f8b&height=180&section=header&text=Jo%C3%A3o%20Lucas&fontSize=40&fontColor=ffffff&desc=Cloud%20e%20Solu%C3%A7%C3%B5es%20de%20TI%20%7C%20AWS%20re%2FStart%20%7C%20Estudante%20de%20ADS&descAlignY=65&descSize=16" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-lucasslv)
 [![Portfólio S3](https://img.shields.io/badge/Portf%C3%B3lio-S3-0b3d6b?style=flat-square&logo=amazonaws&logoColor=white)](http://joaolucasxs-portfolio.s3-website-sa-east-1.amazonaws.com)
@@ -11,7 +11,7 @@
 
 Dois anos em marketing e vendas de e-commerce me ensinaram a transformar dados em decisão e a entender o que o cliente precisa. Em 2025 levei essa base para a tecnologia: AWS re/Start pela Escola da Nuvem, faculdade de ADS e preparação para o AWS Cloud Practitioner.
 
-Meu objetivo é construir carreira em tecnologia unindo visão de negócio e domínio técnico. O caminho que escolhi para isso é a prática: cada repositório aqui é um projeto real, construído em etapas e documentado com as decisões e os aprendizados de cada uma. Hoje o foco é cloud AWS e fundamentos de backend; o próximo passo se define pelo que eu entregar.
+Meu objetivo é construir carreira em tecnologia unindo visão de negócio e domínio técnico. O caminho que escolhi para isso é a prática: cada repositório aqui é um projeto real, construído em etapas e documentado com as decisões e os aprendizados de cada uma. Hoje o foco é cloud AWS e soluções de TI (infraestrutura, pré-vendas técnico e atendimento a parceiros), com fundamentos de backend como apoio.
 
 ## Stack
 
